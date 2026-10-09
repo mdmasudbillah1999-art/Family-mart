@@ -1,0 +1,8 @@
+{
+  "name": "Familly Mart - E-Commerce & Admin",
+  "description": "Comprehensive e-commerce platform and smart merchant administration panel for Familly Mart: Your Family's Smart Choice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
